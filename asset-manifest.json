@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/countries_react/static/css/main.d49c0268.css",
+    "main.js": "/countries_react/static/js/main.0fdc6e09.js",
+    "index.html": "/countries_react/index.html",
+    "static/media/search.svg": "/countries_react/static/media/search.5632c94f99244a2a9aa3fd2a8dd53cbb.svg",
+    "main.d49c0268.css.map": "/countries_react/static/css/main.d49c0268.css.map",
+    "main.0fdc6e09.js.map": "/countries_react/static/js/main.0fdc6e09.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d49c0268.css",
+    "static/js/main.0fdc6e09.js"
+  ]
+}
